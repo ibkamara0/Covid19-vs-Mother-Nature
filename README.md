@@ -15,4 +15,4 @@ As crazy as it may sound, I did this project out of my sheer enjoyment of data s
 - Read csv file and cleaned by inserting into dataframe, and cleaning to increase efficiency
 ### Web Scraping
 - Found the element that will be parsed by inspecting the website. With the link and heading location of the data, just request the website, convert it to text, then parse to find the information of the data we're looking for.
-###
+![web scraping](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/web%20scraping.gif)
