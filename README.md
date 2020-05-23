@@ -17,3 +17,9 @@ As crazy as it may sound, I did this project out of my sheer enjoyment of data s
 - Found the element that will be parsed by inspecting the website. With the link and heading location of the data, just request the website, convert it to text, then parse to find the information of the data we're looking for
 
 ![web scraping](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/web%20scraping.gif)
+
+### Data Cleaning
+- Automated the recieving of the weather information and integrated with the data from the csv, to create a data frame that stored the Date, High Temperature, Low Temperature, and Average Temperature, and Number of Cases, for different areas
+- Normalized the data so that we can visualize different areas on the same scale
+- Created a dataframe that stored the increase in confirmed cases as percentage with its' respective temperature. The temperature would be relative to the increase in cases the week after. 
+- Removed outliers by only including data within certain standard deviation, leaving us with a simple more realistic dataset. The reason for this was because the initial spike in cases was causing alot of noise if the data set. I was more concerned with after the intial spike when tests became more prominent, what was the effect then.
