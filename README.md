@@ -33,3 +33,13 @@ I measured the correlation using Spearman correlation coefficient which has a sc
 Not great but you can see just from this that there is a negative correlation
 
 We can visualize the data and the correlation below:
+
+![Visualization of Data](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/Data%20Visualization.jpg)
+
+Key:
+- **Cyan** New York, NY
+- **Yellow:** Los Angeles, CA
+- **Magenta** Wayne, MI
+- **Green:** Hudson, NJ
+- **Blue:** Philadephia, PA
+- **Red:** Linear Model
