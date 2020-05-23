@@ -12,4 +12,7 @@ Did the project out of my sheer enjoyment of data science. I wanted to one see i
 
 ## Data Preprocessing
 - Web scraped data from accuweather.com 
+- Read csv file and cleaned by inserting into dataframe, and cleaning to increase efficiency
 ### Web Scraping
+- Found the element that will be parsed by inspecting the website. With the link and heading location of the data, just request the website, convert it to text, then parse to find the information of the data we're looking for.
+###
