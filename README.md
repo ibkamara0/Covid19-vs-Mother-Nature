@@ -31,3 +31,5 @@ I measured the correlation using Spearman correlation coefficient which has a sc
 - **Spearman's Correlation Value:** -.6089704636091255
 
 Not great but you can see just from this that there is a negative correlation
+
+We can visualize the data and the correlation below:
