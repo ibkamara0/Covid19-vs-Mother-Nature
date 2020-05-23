@@ -19,7 +19,15 @@ As crazy as it may sound, I did this project out of my sheer enjoyment of data s
 ![web scraping](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/web%20scraping.gif)
 
 ### Data Cleaning
-- Automated the recieving of the weather information and integrated with the data from the csv, to create a data frame that stored the Date, High Temperature, Low Temperature, and Average Temperature, and Number of Cases, for different areas
-- Normalized the data so that we can visualize different areas on the same scale
-- Created a dataframe that stored the increase in confirmed cases as percentage with its' respective temperature. The temperature would be relative to the increase in cases the week after. 
-- Removed outliers by only including data within certain standard deviation, leaving us with a simple more realistic dataset. The reason for this was because the initial spike in cases was causing alot of noise if the data set. I was more concerned with after the intial spike when tests became more prominent, what was the effect then.
+Automated the recieving of the weather information and integrated with the data from the csv, to create a data frame that stored the Date, High Temperature, Low Temperature, and Average Temperature, and Number of Cases, for different areas. Then I normalized the data so that we can visualize different areas on the same scale
+
+Created a dataframe that stored the increase in confirmed cases as percentage with its' respective temperature. The temperature would be relative to the increase in cases the week after. 
+
+Removed outliers by only including data within certain standard deviation, leaving us with a simple more realistic dataset. The reason for this was because the initial spike in cases was causing alot of noise if the data set. I was more concerned with after the intial spike when tests became more prominent, what was the effect then.
+
+## Results
+I measured the correlation using Spearman correlation coefficient which has a scale of -1 to 1. -1 is perfect negative correlation, 1 is positive correlation, and 0 is no correlation. 
+
+- **Spearman's Correlation Value:** -.6089704636091255
+
+Not great but you can see just from this that there is a negative correlation
