@@ -25,7 +25,7 @@ Created a dataframe that stored the increase in confirmed cases as percentage wi
 
 Removed outliers by only including data within certain standard deviation, leaving us with a simple more realistic dataset. The reason for this was because the initial spike in cases was causing alot of noise if the data set. I was more concerned with after the intial spike when tests became more prominent, what was the effect then.
 
-## Results
+## Data Analysis
 I measured the correlation using Spearman correlation coefficient which has a scale of -1 to 1. -1 is perfect negative correlation, 1 is positive correlation, and 0 is no correlation. 
 
 - **Spearman's Correlation Value:** -.6089704636091255
@@ -37,9 +37,17 @@ We can visualize the data and the correlation below:
 ![Visualization of Data](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/Data%20Visualization.jpg)
 
 Key:
-- **Cyan** New York, NY
+- **Cyan:** New York, NY
 - **Yellow:** Los Angeles, CA
-- **Magenta** Wayne, MI
+- **Magenta:** Wayne, MI
 - **Green:** Hudson, NJ
 - **Blue:** Philadephia, PA
 - **Red:** Linear Model
+
+## Conclusion
+Now, I am not a data scientist, YET!! This project was simply done for fun. Who knows what this virus is capable of. My main goal for this project was to get a grasp of different data science skills, packages, and knowledge. Please feel free to share with me any feedback you have on this project whether be good or bad. As, I put myself out on the job market please let me know more ways to make myself more proficient and marketable in the world of data science.
+
+##Contact Information
+
+**Email:** ibkamara1997@gmail.com
+**LinkedIn: https://www.linkedin.com/in/ibrahim-kamara-81b427139/
