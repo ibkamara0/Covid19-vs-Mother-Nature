@@ -49,5 +49,5 @@ Now, I am not a data scientist, YET!! This project was simply done for fun. Who 
 
 ## Contact Information
 
-**Email:** ibkamara1997@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
+- **Email:** ibkamara1997@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
