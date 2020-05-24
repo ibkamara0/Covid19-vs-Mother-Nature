@@ -32,7 +32,7 @@ I measured the correlation using Spearman correlation coefficient which has a sc
 
 Not great but you can see just from this that there is a negative correlation, because it is closer to -1 then 0 or 1.
 
-We can visualize the data and the correlation below, the weather is on the x-axis and the increase in confirmed cases on the y-axis:
+We can visualize the data and the correlation below, the weather is on the x-axis and the increase in confirmed cases on the y-axis. What is also seen is the best fit line generated through machine learning (red). This line help to display the trend of the points:
 
 ![Visualization of Data](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/Data%20Visualization.jpg)
 
