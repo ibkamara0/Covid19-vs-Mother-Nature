@@ -19,7 +19,7 @@ As crazy as it may sound, I did this project out of my sheer enjoyment of data s
 ![web scraping](https://github.com/ibkamara0/Covid19-vs-Mother-Nature/blob/master/web%20scraping.gif)
 
 ### Data Cleaning
-Automated the recieving of the weather information and integrated with the data from the csv, to create a data frame that stored the Date, High Temperature, Low Temperature, and Average Temperature, and Number of Cases, for different areas. Then I normalized the data so that we can visualize different areas on the same scale
+First, I automated the process of recieving of the weather information and integrated it with the data from the csv, to create a data frame that stored the Date, High Temperature, Low Temperature, and Average Temperature, and Number of Cases, for different areas. Then I normalized the data so that we can visualize different areas on the same scale
 
 Created a dataframe that stored the increase in confirmed cases as percentage with its' respective temperature. The temperature would be relative to the increase in cases the week after. 
 
@@ -43,6 +43,11 @@ Key:
 - **Green:** Hudson, NJ
 - **Blue:** Philadephia, PA
 - **Red:** Linear Model
+
+### Explanation of Visualization
+
+What this graph represents is the weather and the growth of Covid19 cases. This means that in relation to their area the higher to temperatures the lower percentage of growth, with the amount of Covid19 cases.
+
 
 ## Conclusion
 Now, I am not a data scientist, YET!! This project was simply done for fun. Who knows what this virus is capable of. My main goal for this project was to get a grasp of different data science skills, packages, and knowledge. Please feel free to share with me any feedback you have on this project whether be good or bad. As, I put myself out on the job market please let me know more ways to make myself more proficient and marketable in the world of data science.
