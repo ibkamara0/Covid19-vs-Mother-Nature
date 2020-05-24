@@ -1,5 +1,5 @@
 # Covid19-vs-Mother-Nature
-As crazy as it may sound, I did this project out of my sheer enjoyment of data science. I wanted to one, see if I could visualize some good news, then two, gain experience and sharpen my knowledge and skills in data science.
+As crazy as it may sound, my passion for data science is what motivated me to want to complete this project. I began this project hoping to visualize some positive data, in the light of our current situation. Lastly, I used this as an opportunity to enhance my knowledge in data science and potentially get some professional feedback.
 ## Overview
 - Web scraped, read, parsed and cleaned data for easier implementation into machine learning model
 - Created a visual representation of the relationship between increase in weather temperature and change in Covid19 confirmed cases
@@ -50,7 +50,9 @@ What this graph represents is the weather and the growth of confirmed Covid-19 c
 
 
 ## Conclusion
-Now, I am not a data scientist, YET!! This project was simply done for fun. Who knows what this virus is capable of. My main goal for this project was to get a grasp of different data science skills, packages, and knowledge. Please feel free to share with me any feedback you have on this project whether be good or bad. As, I put myself out on the job market please let me know more ways to make myself more proficient and marketable in the world of data science.
+Now, I am not a data scientist, YET(one day)! This project was simply done for fun and to also gain experience and feedback doing one of the things I love. Who knows what this virus is capable of, we must all proceed with caution. My main goal for this project was to get a grasp of different data science skills, packages, and research methods. Please feel free to share with me any feedback you have on this project whether be good or bad. I will appreciate any feedback and as put myself out on the job market please let me know more ways to make myself more proficient and marketable in the world of data science.
+
+Thank you. Stay safe and together we can all get through this. #HungryGrad
 
 ## Contact Information
 
