@@ -47,7 +47,7 @@ Key:
 ## Conclusion
 Now, I am not a data scientist, YET!! This project was simply done for fun. Who knows what this virus is capable of. My main goal for this project was to get a grasp of different data science skills, packages, and knowledge. Please feel free to share with me any feedback you have on this project whether be good or bad. As, I put myself out on the job market please let me know more ways to make myself more proficient and marketable in the world of data science.
 
-##Contact Information
+## Contact Information
 
 **Email:** ibkamara1997@gmail.com
-**LinkedIn: https://www.linkedin.com/in/ibrahim-kamara-81b427139/
+**LinkedIn:** https://www.linkedin.com/in/ibrahim-kamara-81b427139/
