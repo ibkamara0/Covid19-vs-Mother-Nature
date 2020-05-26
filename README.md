@@ -46,7 +46,7 @@ Key:
 
 ### Explanation of Visualization
 
-What this graph represents is the weather and the growth of confirmed Covid-19 cases. This means that in relation to their area the higher to temperatures the lower percentage of growth, with the amount of Covid-19 cases. You can see this in the visual, while the are some point that do not correlate you can see that as you move along the x-axis (weather increases), you move down the y-axis(there is less increase confirmed Covid-19 cases).
+What this graph represents is the weather and the growth of confirmed Covid-19 cases. This means that in relation to their area the higher to temperatures the lower percentage of growth, with the amount of Covid-19 cases. You can see this in the visual, while the are some point that do not correlate you can see that as you move along the x-axis (weather temperature increases), you move down the y-axis(there is less increase confirmed Covid-19 cases).
 
 
 ## Conclusion
