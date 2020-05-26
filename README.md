@@ -25,7 +25,7 @@ Next, I created a dataframe that stored the increase in confirmed cases by perce
 
 Lastly, I removed outliers by only including data within certain range or standard deviation, This left me with a simple, more realistic dataset. The reason for this was because the initial spike in cases was causing alot of noise if the data set. For this project, I was more concerned with what happened after the intial spike when tests became more prominent, and how they confirmed cases slowed down.
 
-## Data Analysis
+## Analysis
 I measured the correlation using Spearman correlation coefficient which has a scale of -1 to 1. -1 is perfect negative correlation, 1 is positive correlation, and 0 is no correlation. Positive correlation means as one variable increases so does the other. Negative correlation means as one increases the other decreases. Below is what was returned from the Spearman Correlation.
 
 - **Spearman's Correlation Value:** -.6089704636091255
